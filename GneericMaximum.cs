@@ -37,7 +37,7 @@ namespace UC4_UsingOption_andSorting
         public void PrintMaxValue()
         {
             var max=MaxValueFromArray(this.Value);
-            Console.WriteLine("Maximum Value is = "+max);
+            Console.WriteLine("Maximum Value is= "+max);
         }
 
 
